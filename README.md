@@ -1,4 +1,4 @@
-# Electronic Intelligent Business Care
+# Intelligent Business Care
 
 	Currently Working for version 1.0
 	comprises of - 
