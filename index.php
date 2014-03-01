@@ -23,6 +23,7 @@
             <ul>
             	<li>Business solutions</li>
                 <li>Support 7x24</li>
+                <li>Network solution</li>
             </ul>
         </p>
     </p>
