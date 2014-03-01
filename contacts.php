@@ -9,7 +9,9 @@
     <hr />
 	<h1>Contact Us</h1>
     <p>
-    	67/F, Green Road, Panthapath, Dhaka - 1205
+    	67/F, Green Road, Panthapath, Dhaka - 1205<br/>
+        email: info@ibizcare.com<br/>
+        web:www.ibizcare.com
     </p>
     <br/><br/>
     <hr/>
