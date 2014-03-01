@@ -17,6 +17,13 @@
                 <li>Launch new project</li>
             </ul>
         </p>
+        <p>
+        	<h3>iBizCare Services</h3>
+            <ul>
+            	<li>Business solutions</li>
+                <li>Support 7x24</li>
+            </ul>
+        </p>
     </p>
     <br/><br/>
     <hr/>
