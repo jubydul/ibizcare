@@ -10,7 +10,13 @@
 	<h1>Welcome to Intelligent Business Care</h1>
     <p>
     	We are providing electronic business solutions for all types of business. We have a skilled team.
-        
+        <p>
+        	<h3>iBizCare News</h3>
+            <ul>
+            	<li>AGM held on 11.12.2013</li>
+                <li>Launch new project</li>
+            </ul>
+        </p>
     </p>
     <br/><br/>
     <hr/>
