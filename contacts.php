@@ -9,7 +9,7 @@
     <hr />
 	<h1>Contact Us</h1>
     <p>
-    	
+    	67/F, Green Road, Panthapath, Dhaka - 1205
     </p>
     <br/><br/>
     <hr/>
