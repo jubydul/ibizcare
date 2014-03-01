@@ -18,6 +18,14 @@
                 <li>Going to have a tour at 01.01.2014</li>
             </ul>
         </p>
+        <p>
+        	<h3>iBizCare Services</h3>
+            <ul>
+            	<li>Business solutions</li>
+                <li>Support 7x24</li>
+                <li>Network solution</li>
+            </ul>
+        </p>
     </p>
     <br/><br/>
     <hr/>
