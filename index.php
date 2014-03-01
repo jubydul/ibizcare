@@ -15,6 +15,7 @@
             <ul>
             	<li>AGM held on 11.12.2013</li>
                 <li>Launch new project</li>
+                <li>Going to have a tour at 01.01.2014</li>
             </ul>
         </p>
         <p>
@@ -27,6 +28,6 @@
     </p>
     <br/><br/>
     <hr/>
-    copyright &copy; All rights reserved by eBizSol.
+    copyright &copy; All rights reserved by eBizSol. powered by iBizSol.com
 </body>
 </html>
